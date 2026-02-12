@@ -28,6 +28,8 @@
 <br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<br><br>
+
 <img src="https://github-contributor-stats.vercel.app/api?username=arghyadip-17&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 <br><br>
 
