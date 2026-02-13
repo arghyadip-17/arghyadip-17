@@ -26,9 +26,25 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=arghyadip-17&theme=codeSTACKr&hide_border=false" />
 <br><br>
+<h2 align="center">🏅 LeetCode Achievements</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Arghyadip_Ghosh?theme=dark&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Arghyadip_Ghosh/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Badges-orange?logo=leetcode&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+
+<p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 <br><br>
+</p>
+<p align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=arghyadip-17&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 <br><br>
