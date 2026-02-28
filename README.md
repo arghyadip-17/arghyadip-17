@@ -26,7 +26,7 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=arghyadip-17&theme=codeSTACKr&hide_border=false" />
 <br><br>
-<h2 align="center">🏅 LeetCode Achievements</h2>
+<h2 align="center">🏅 LeetCode Achievements </h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Arghyadip_Ghosh?theme=dark&ext=heatmap" />
