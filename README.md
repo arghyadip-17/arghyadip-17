@@ -37,7 +37,15 @@
     <img src="https://img.shields.io/badge/LeetCode-View%20Badges-orange?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+<h2 align="center"> 🏆 HackerRank Profile </h2>
 
+<div align="center">
+
+<img width="358" height="237" alt="image" src="https://github.com/user-attachments/assets/db300e31-6245-450b-b7b1-ac4b87568002" />
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/invince017)
+
+</div>
 
 <p align="center">
 
