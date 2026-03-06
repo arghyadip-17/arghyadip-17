@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img width="512" height="253" alt="image" src="https://github.com/user-attachments/assets/d0e8cd4f-a7b8-4ce5-81f3-5f23f70b4ca1" />
+<img width="662" height="260" alt="image" src="https://github.com/user-attachments/assets/6f5be60f-af5a-4166-8fa3-6084926bdbfb" />
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/invince017)
 
@@ -54,7 +54,7 @@
 <br><br>
 </p>
 <p align="center">
-
+  
 <img src="https://github-contributor-stats.vercel.app/api?username=arghyadip-17&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 <br><br>
 
