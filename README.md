@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 3rd Year Computer Science Engineering Student at GCETTS <br>
-🌐 Web Developer | 📊 Data Science Enthusiast <br>
+🌐 Aspiring Web Developer | 📊 Data Science Enthusiast <br>
 📍 Kolkata, India
 </p>
 
