@@ -42,7 +42,9 @@
 
 <div align="center">
 
-<img width="662" height="260" alt="image" src="https://github.com/user-attachments/assets/6f5be60f-af5a-4166-8fa3-6084926bdbfb" />
+<img width="639" height="252" alt="image" src="https://github.com/user-attachments/assets/11489660-68a9-447b-887b-0f3cd3e073ce" />
+
+
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/invince017)
 
