@@ -45,9 +45,8 @@
 
 <div align="center">
 
-<img width="654" height="247" alt="image" src="https://github.com/user-attachments/assets/e75fb034-1462-475d-a36e-277f594d8f94" />
 
-
+<img width="631" height="236" alt="image" src="https://github.com/user-attachments/assets/6a5626f7-dfc9-406e-83ae-bbbb82e51353" />
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/invince017)
 
