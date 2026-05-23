@@ -76,6 +76,16 @@ Worked on research-driven ML and development projects like AQI Prediction Model.
 Applied Python libraries for data preprocessing, model building, and visualization. Developed ML models and created business insights dashboards.
 
 ---
+### 🌐 Web Development Intern | Synent Technologies
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Web Development](https://img.shields.io/badge/Web%20Development-0A66C2?logo=googlechrome&logoColor=white)
+
+Built responsive and user-friendly web applications using modern frontend technologies. Worked on designing interactive interfaces, optimizing website performance, and implementing dynamic web functionalities.
+
+---
 <p align="center">
 Passionate about building scalable web applications and intelligent data-driven solutions. 
 Driven by curiosity and continuous learning, I aim to transform ideas into impactful digital products.
