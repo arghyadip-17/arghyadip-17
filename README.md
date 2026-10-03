@@ -23,12 +23,13 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=arghyadip-17&theme=codeSTACKr&hide_border=false&cache_seconds=86400" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arghyadip-17&theme=tokyo-night&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=arghyadip-17&theme=codeSTACKr&hide_border=false&cache_seconds=86400" />
 </p>
+
 
 <h2 align="center">🏅 LeetCode Achievements </h2>
 
